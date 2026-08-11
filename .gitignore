@@ -1,0 +1,13 @@
+# Local virtual environment & cache
+.venv/
+__pycache__/
+
+# Local database & vector store
+chroma_langchain_db/
+
+# Editor settings
+.vscode/
+*.code-workspace
+
+# Environment variables & secrets
+.env
